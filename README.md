@@ -1,9 +1,10 @@
 # Aprendendo a utilizar Bootstrap na sua página Web
 
 **Documentação:**
-- [Aula](https://www.youtube.com/embed/gLsqu8bSimA)
+- [Aula 1](https://www.youtube.com/embed/gLsqu8bSimA)
 - [Bootstrap](https://getbootstrap.com/)
 - [Pexels](https://www.pexels.com/)
+- [HTML Color Codes](https://html-color-codes.info/)
 
 ## Fontes:
 - [Foto de Monoar Rahman no Pexels](https://www.pexels.com/pt-br/foto/computador-laptop-cinza-109371/)
