@@ -10,3 +10,5 @@
 - [Foto de Monoar Rahman no Pexels](https://www.pexels.com/pt-br/foto/computador-laptop-cinza-109371/)
 - [Foto de Pixabay no Pexels](https://www.pexels.com/pt-br/foto/ativado-imac-ao-lado-do-macbook-na-mesa-39284/)
 - [Foto de Pixabay no Pexels](https://www.pexels.com/pt-br/foto/php-screengrab-270348/)
+- [Foto de Markus Spiske no Pexels](https://www.pexels.com/pt-br/foto/html-world-wide-web-rede-mundial-de-computadores-fundo-177598/)
+- [Gerador de textos aleatórios](https://www.loremipzum.com/pt/gerador-de-texto)

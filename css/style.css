@@ -20,3 +20,12 @@ body{
     color: white;
 }
 
+.servicos {
+    background-color: rgb(219, 68, 68);
+    color: white;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
